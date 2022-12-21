@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "homepage": "https://github.com/bhar1gitr/text-react-app.git",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
